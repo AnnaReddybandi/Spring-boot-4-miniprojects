@@ -1,0 +1,13 @@
+package com.example.hospitalappointmentbooking;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class HospitalAppointmentBookingApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
